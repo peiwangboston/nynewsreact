@@ -1,2 +1,1 @@
-# nynewsreact
-ny news react
+# nytreact
